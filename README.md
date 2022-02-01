@@ -1,4 +1,4 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=cmokbel1&label=visitor\Count&labelColor=%23d9e3f0&countColor=%23f47373&style=plastic)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=cmokbel1&label=visitors&labelColor=%23d9e3f0&countColor=%23f47373&style=plastic)
 
 -  👋 Hi, I’m Claude!
 - 👀 I’m interested in e-sports, coding, fashion, surfing/excercise
