@@ -5,7 +5,7 @@
 - 🌱 Languages: Javascript, HTML, CSS
 - :wrench: Tools: react.js, moment.js, bootstrap, reactstrap, express, passport, mySQL, mongoDB
 - 💞️ I’m looking to collaborate on projects that will challenge my basic understanding of coding
-- 📫 buff4eyes@gmail.com || discord - EDxBuff4eyes#0066
+- 📫claudemokbel@gmail.com || discord
 - :link: https://cmokbel1.github.io/portfolio-react/
 
 <!---
