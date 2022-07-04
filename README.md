@@ -1,9 +1,9 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=cmokbel1&label=visitors&labelColor=%23d9e3f0&countColor=%23f47373&style=plastic)
 
--  👋 Hi, I’m Claude!
+-  👋 Hi, I’m Claude M!
 - 👀 I’m interested in coding, e-sports, fashion, surfing/excercise
 - 🌱 Languages: Javascript, PHP, HTML, CSS
-- :wrench: Tools: react.js, moment.js, bootstrap, reactstrap, express, passport, mySQL, mongoDB, JIRA, Docker, Wireframe
+- :wrench: Tools: React.js, Angular.js moment.js, Bootstrap, Reactstrap, Express, passport, mySQL, mongoDB, JIRA, Docker, Wireframe
 - 📫claudemokbel@gmail.com || discord -- DM 4 discord
 - :link: https://claudemokbel.com
 
