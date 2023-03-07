@@ -3,7 +3,7 @@
 -  👋 Hi, I’m Claude M!
 - 👀 I’m interested in coding, e-sports, fashion, surfing/excercise
 - 🌱 Languages: Javascript, PHP, HTML, CSS
-- :wrench: Tools: React.js, Angular.js moment.js, Bootstrap, Reactstrap, Express, mySQL, mongoDB, Azure, JIRA, Docker, Cloudinary, Wireframe
+- :wrench: Tools: React.js, Angular.js, Vue.js, Next.js, moment.js, Bootstrap, Reactstrap, Express, mySQL, mongoDB, Azure, JIRA, Docker, Cloudinary, Wireframe
 - 📫claudemokbel@gmail.com || discord -- DM 4 discord
 - :link: https://claudemokbel.com
 
